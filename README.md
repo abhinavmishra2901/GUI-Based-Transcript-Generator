@@ -1,1 +1,1 @@
-# GUI-Based-Transcript-Generator
+To run program - streamlit run main.py
