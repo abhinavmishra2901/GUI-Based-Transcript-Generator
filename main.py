@@ -5,7 +5,7 @@ from datetime import datetime
 import streamlit as st
 import pandas as pd
 
-
+st.title = "Transcript Generator"
 
 #have to update for new branches and mtech/msc/phd course
 course={}
